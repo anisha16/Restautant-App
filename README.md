@@ -1,5 +1,5 @@
 # Restautant-App for Dine In and Home Delivery.
-<img src ="Screenshot_20210725-220711.jpg" width="130" height="200"/>
+<img src ="Screenshot_20210725-220711.jpg" width="130" height="250"/>
 Consists of User and Admin Panel.
 Built the app in Java and used Firebase as Database.
 User can Book a table and order food for home delivery.
